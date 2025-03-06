@@ -1,4 +1,4 @@
-package com.kovisoft.main;
+package com.kovisoft.securefiles;
 
 import com.kovisoft.exposed.SecureMethods;
 import com.kovisoft.internal.SecureMethodsImpl;

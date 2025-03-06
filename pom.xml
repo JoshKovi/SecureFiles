@@ -23,7 +23,7 @@
                     <outputDirectory>C:/Users/joshu/Documents/PortWebsite-Build</outputDirectory>
                     <archive>
                         <manifest>
-                            <mainClass>com.kovisoft.main.Main</mainClass>
+                            <mainClass>com.kovisoft.securefiles.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

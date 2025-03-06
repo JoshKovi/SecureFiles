@@ -1,4 +1,4 @@
-package com.kovisoft.main;
+package com.kovisoft.securefiles;
 
 public class StartFlags {
     public enum Mode {
