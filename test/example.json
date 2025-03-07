@@ -1,0 +1,6 @@
+{
+  "BasicUser": "basic_username",
+  "BasicPassword" : "strongPassword",
+  "Secret-Port-Numbers" : [443, 8080, 1200],
+  "Super-Secret-Config-Password" : "ExceptionallyStrongPassword123!@#"
+}
