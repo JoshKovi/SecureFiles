@@ -1,7 +1,7 @@
 package com.kovisoft.securefiles;
 
-import com.kovisoft.exposed.SecureMethods;
-import com.kovisoft.internal.SecureMethodsImpl;
+import com.kovisoft.securefiles.exposed.SecureMethods;
+import com.kovisoft.securefiles.internal.SecureMethodsImpl;
 
 import java.io.Console;
 import java.util.Arrays;

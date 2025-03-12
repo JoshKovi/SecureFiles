@@ -1,7 +1,7 @@
-package com.kovisoft.exposed;
+package com.kovisoft.securefiles.exposed;
 
 
-import com.kovisoft.internal.SecureMethodsImpl;
+import com.kovisoft.securefiles.internal.SecureMethodsImpl;
 
 import java.io.IOException;
 import java.security.GeneralSecurityException;
